@@ -1,0 +1,36 @@
+{
+  "name": "Jamsung L(A)Galbi",
+  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+  "benefits": [
+    {
+      "id": "3001",
+      "name": "솔라나 Ssoyo NFT",
+      "description": "솔라나 NFT 소유권",
+      "expire": "0"
+    },
+    {
+      "id": "1001",
+      "name": "부동산 사업권",
+      "description": "잼성 부동산 사업 지원",
+      "expire": "0"
+    },
+    {
+      "id": "2001",
+      "name": "부동산 사업권",
+      "description": "잼성 부동산 사업 지원",
+      "expire": "0"
+    },
+    {
+      "id": "2002",
+      "name": "부동산 사업권",
+      "description": "잼성 부동산 사업 지원",
+      "expire": "0"
+    },
+    {
+      "id": "2003",
+      "name": "부동산 사업권",
+      "description": "잼성 부동산 사업 지원",
+      "expire": "0"
+    }
+  ]
+}
