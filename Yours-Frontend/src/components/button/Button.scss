@@ -1,0 +1,14 @@
+@import '../../style/var.scss';
+
+.button.button-component {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+    svg {
+        @include set-vw(width, 20px);
+        @include set-vw(height, 20px);
+        @include set-vw(margin-right, 10px);
+    }
+}

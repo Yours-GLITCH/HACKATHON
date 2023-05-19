@@ -1,0 +1,19 @@
+@import '../../style/var.scss';
+@import '../../style/transform.scss';
+
+.yours-wallet-page {
+    .yours-wallet-title {
+        text-align: left;
+        @include set-vw(margin-bottom, 20px);
+    }
+
+    .yours-wallet-container {
+        width: -webkit-fill-available;
+        display: flex;
+        flex-direction: column;
+        border-bottom: solid $GR-1;
+        @include set-vw(gap, 20px);
+        @include set-vw(padding-bottom, 23px);
+        @include set-vw(border-width, 6px);
+    }
+}
